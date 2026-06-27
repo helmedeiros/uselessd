@@ -74,3 +74,7 @@ Your project will probably depend on some existing packages. The application abo
 During development you can build the `useless` library by itself with the command `"go build ...useless"`. You could also give the full path to the package name, `"go build github.com/helmedeiros/useless"`.
 
 To compile `uselessd.go` and its dependencies into an executable, use the command `"go build ...uselessd"`.
+
+## License
+
+[MIT](LICENSE)
